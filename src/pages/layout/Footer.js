@@ -69,7 +69,7 @@ class Footer extends React.Component {
                       <a href='seller'>Become a Recommender</a>
                     </li>
                     <li>
-                      <a href='buyer'>Sign Up</a>
+                      <a href='https://buyerportal.vercel.app/sign-up'>Sign Up</a>
                     </li>
                     <li>
                       <a href='buyer'>Contact Us</a>
