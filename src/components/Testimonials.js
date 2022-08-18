@@ -30,10 +30,7 @@ class Testimonials extends React.Component {
 
             <div class='testimonial-nav-carousel-active'>
               <div class='single-testimoinal-box'>
-                <div
-                  class='client-img bg-cover'
-                  style={{ backgroundImage: "url('img/testimonial/1.png')" }}
-                ></div>
+                
                 <div class='feedback'>
                   “This site has made my trading work much easier which saves me
                   a lot of time, I have become a fan of it.”
@@ -46,10 +43,7 @@ class Testimonials extends React.Component {
                 </div>
               </div>
               <div class='single-testimoinal-box'>
-                <div
-                  class='client-img bg-cover'
-                  style={{ backgroundImage: "url('img/testimonial/2.jpeg')" }}
-                ></div>
+                
                 <div class='feedback'>
                   “By using expert recommendation, I can easily invest in stocks
                   ,which earns me a lot of money.”
@@ -62,10 +56,7 @@ class Testimonials extends React.Component {
                 </div>
               </div>
               <div class='single-testimoinal-box'>
-                <div
-                  class='client-img bg-cover'
-                  style={{ backgroundImage: "url('img/testimonial/3.jpeg')" }}
-                ></div>
+                
                 <div class='feedback'>
                   “I can now complete trading work from anywhere anytime, making
                   my investments work more dynamic.”
@@ -78,10 +69,7 @@ class Testimonials extends React.Component {
                 </div>
               </div>
               <div class='single-testimoinal-box'>
-                <div
-                  class='client-img bg-cover'
-                  style={{ backgroundImage: "url('img/testimonial/4.jpeg')" }}
-                ></div>
+                
                 <div class='feedback'>
                   “This site has made my trading work much easier which saves me
                   a lot of time, I have become a fan of it.”
