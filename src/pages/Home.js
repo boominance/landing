@@ -63,7 +63,7 @@ class Home extends React.Component {
                         <img src='img/home3/hero-arrow.png' alt='' />
                       </div>
                       <a
-                        href='/become-a-recommender'
+                        href='https://buyerportal.vercel.app/sign-up'
                         class='theme-btn bg-color'
                       >
                         Sign Up
