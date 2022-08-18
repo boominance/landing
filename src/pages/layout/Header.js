@@ -66,7 +66,7 @@ class Header extends React.Component {
                 </div>
               </div>
               <div class='header-right-element'>
-                <a href='/buyer' class='color-2'>
+                <a href='https://buyerportal.vercel.app/login' class='color-2'>
                   Login
                 </a>
                 <a href='https://buyerportal.vercel.app/sign-up' class='theme-btn bg-color'>
