@@ -30,7 +30,7 @@ class Header extends React.Component {
                           <a href='/our-recommenders'>Our Recommenders</a>
                         </li>
                         <li>
-                          <a href='/become-a-recommender'>
+                          <a href='https://buyerportal.vercel.app/sign-up'>
                             Become a Recommender
                           </a>
                         </li>
